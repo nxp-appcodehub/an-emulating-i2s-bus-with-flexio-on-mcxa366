@@ -1,0 +1,53 @@
+{
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "spdxVersion": "SPDX-2.3",
+  "creationInfo": {
+    "created": "2025-09-16T02:05:07Z",
+    "creators": [
+      "Organization: NXP"
+    ],
+    "licenseListVersion": "3.20"
+  },
+  "name": "an-emulating-i2s-bus-with-flexio-on-mcxa366-1.0",
+  "dataLicense": "CC0-1.0",
+  "documentNamespace": "https://nxp.com/spdx/17a1596b-4996-40d9-8f29-3cc9c9bd1397",
+  "packages": [
+    {
+      "SPDXID": "SPDXRef-package-17a1596b-4996-40d9-8f29-3cc9c9bd1397",
+      "name": "an-emulating-i2s-bus-with-flexio-on-mcxa366",
+      "versionInfo": "1.0",
+      "licenseConcluded": "(BSD-3-Clause)",
+      "licenseDeclared": "(BSD-3-Clause)",
+      "downloadLocation": "https://github.com/nxp-appcodehub/an-emulating-i2s-bus-with-flexio-on-mcxa366",
+      "originator": "Organization: NXP",
+      "supplier": "NOASSERTION",
+      "comment": "This application note code describes how to emulate I2S interface with FlexIO on MCXA366.",
+      "externalRefs": [],
+      "filesAnalyzed": false
+    },
+    {
+      "SPDXID": "SPDXRef-package-1ffe6406-89b4-415b-9902-0d6549960424",
+      "name": "ARM-software/CMSIS_6",
+      "versionInfo": "v6.1.0",
+      "licenseConcluded": "Apache-2.0",
+      "licenseDeclared": "Apache-2.0",
+      "downloadLocation": "NOASSERTION",
+      "originator": "Organization: ARM-software/CMSIS_6",
+      "supplier": "NOASSERTION",
+      "externalRefs": [],
+      "filesAnalyzed": false
+    }
+  ],
+  "relationships": [
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-package-17a1596b-4996-40d9-8f29-3cc9c9bd1397"
+    },
+    {
+      "spdxElementId": "SPDXRef-package-17a1596b-4996-40d9-8f29-3cc9c9bd1397",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-package-1ffe6406-89b4-415b-9902-0d6549960424"
+    }
+  ]
+}

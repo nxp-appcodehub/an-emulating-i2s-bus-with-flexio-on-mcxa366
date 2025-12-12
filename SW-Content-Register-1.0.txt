@@ -1,0 +1,12 @@
+NXP Software Content Register
+
+Package:                   an-emulating-i2s-bus-with-flexio-on-mcxa366
+Version:                   1.0
+Outgoing License:          BSD-3-Clause
+License File:              LICENSE
+Description and comments:  This application note code describes how to emulate I2S interface with FlexIO on MCXA366.  
+Release Location:          https://github.com/nxp-appcodehub/an-emulating-i2s-bus-with-flexio-on-mcxa366
+Origin:                    NXP (BSD-3-Clause)
+                           CMSIS V6.1.0 (Apache-2.0) - https://github.com/ARM-software/CMSIS_6/releases/tag/v6.1.0
+                             
+
