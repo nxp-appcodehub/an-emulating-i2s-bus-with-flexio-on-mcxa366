@@ -31,7 +31,7 @@ In this application note, the I2S interface emulated by FlexIO is used as an I2S
 
 ## 1. Software<a name="step1"></a>
 - [MCUXpresso IDE v24.12 [Build 148] [2025-01-10] or later](https://www.nxp.com/design/software/development-software/mcuxpresso-software-and-tools-/mcuxpresso-integrated-development-environment-ide:MCUXpresso-IDE)
-- [SDK_2.16.0_FRDM-MCXA156](https://mcuxpresso.nxp.com/en/welcome)
+- [SDK_25_09_00_FRDM-MCXA366](https://mcuxpresso.nxp.com/en/welcome)
 - MCUXpresso for Visual Studio Code: This example supports MCUXpresso for Visual Studio Code, for more information about how to use Visual Studio Code please refer [here](https://www.nxp.com/design/training/getting-started-with-mcuxpresso-for-visual-studio-code:TIP-GETTING-STARTED-WITH-MCUXPRESSO-FOR-VS-CODE).
 ## 2. Hardware<a name="step2"></a>
 - FRDM-MCXA366 board
