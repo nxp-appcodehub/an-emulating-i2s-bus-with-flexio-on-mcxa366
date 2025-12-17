@@ -3,7 +3,7 @@
 
 ## AN14794 Emulating I2S bus with FlexIO on MCXA366
 
-This application note describes how to emulate I2S interface with FlexIO on MCXA156 and implement a USB speaker device on MCXA156. The audio function is tested using the codec on LPCXpress55s69 board.
+This application note describes how to emulate I2S interface with FlexIO on MCXA366. The audio function is tested using the PmodI2S2 board.
 
 ![Block_diagram](image/block_diagram.png)
 
